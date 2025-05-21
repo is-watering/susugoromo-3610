@@ -452,7 +452,7 @@
     ]
   },
   "meta": {
-    "filename": "BOB-PMW3610-SEIBOKU.kicad_pro",
+    "filename": "susugoromo-3610.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -489,9 +489,9 @@
       "netlist": "",
       "plot": "./",
       "pos_files": "",
-      "specctra_dsn": "",
+      "specctra_dsn": "susugoromo-3610.dsn",
       "step": "",
-      "svg": "",
+      "svg": "./",
       "vrml": ""
     },
     "page_layout_descr_file": ""
