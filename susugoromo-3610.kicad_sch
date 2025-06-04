@@ -6,7 +6,6 @@
 	(paper "A4")
 	(title_block
 		(title "SUSUGOROMO-3610")
-		(rev "1.0")
 	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_01x07"
